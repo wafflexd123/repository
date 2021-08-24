@@ -611,6 +611,7 @@ Received Import Request.
 Start importing Assets/Prefabs/RedPrefab.prefab using Guid(a5dccf0193d2fd04b91a56bc432224bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d605676cc58cd9d2cfd7dc84a4dc53') in 0.007098 seconds
   Import took 0.009388 seconds .
 
+<<<<<<< HEAD
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
@@ -659,3 +660,5 @@ Start importing Assets/Prefabs/RedPrefab.prefab using Guid(a5dccf0193d2fd04b91a5
   Import took 0.010292 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+=======
+>>>>>>> feature-print
